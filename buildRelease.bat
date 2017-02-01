@@ -45,7 +45,7 @@ echo Version:  %VERSION%
 del a.version
 
 
-copy ..\ModuleManager*.dll GameData\ASET
+copy ..\ModuleManager.*.dll GameData
 
 set FILE="%RELEASEDIR%\ASET_CE-%VERSION%.zip"
 IF EXIST %FILE% del /F %FILE%

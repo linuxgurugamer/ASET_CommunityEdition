@@ -1,1 +1,10 @@
 "ALCOR" by Alexustas is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+Other mods bundled are covered by their respective licenses:
+
+ModuleManager						CC-BY-SA
+JSI Raster Prop manager				GPL-3.0
+MechJeb2							GPL-3.0
+SCANsat								restricted, see mod for details
+VesselView							MIT
+Docking Port Alignment Indicator	MIT
