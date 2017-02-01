@@ -1,0 +1,1 @@
+[#{1:"b8312e99";"00000000";"211517AA"}]AAA[@x-48][#ffcb4f11]888[#{1:"ffcb4fff";"00000000";"aa4033FF"}][@x-96]{0:000} $&$ PERSISTENT_HeadingInput CUSTOM_ALCOR_BACKLIGHT_ON

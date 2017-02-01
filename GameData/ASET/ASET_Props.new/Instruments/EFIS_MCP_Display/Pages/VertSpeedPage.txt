@@ -1,0 +1,1 @@
+[#{1:"b8312e99";"00000000";"211517AA"}]AAAAA[@x-80][#ffcb4f11]88888[@x-112]C[#{1:"ffcb4fff";"00000000";"aa4033FF"}][@x-176]{0,5:0000}[@x-256]{0:"+";"";""} $&$ PERSISTENT_MCP_VertSpeedInput CUSTOM_ALCOR_BACKLIGHT_ON
