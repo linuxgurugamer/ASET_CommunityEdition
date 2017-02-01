@@ -1,0 +1,11 @@
+ASET Requirements
+
+Required Mods
+	Module Manager
+	JSI Raster Prop Monitor
+
+Optional Mods
+	MechJeb2
+	SCANsat
+	VesselView
+	NavyFish/Plugins/DPAI (Docking Port Alignment Indicator)
