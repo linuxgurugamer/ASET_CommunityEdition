@@ -1,0 +1,103 @@
+﻿Please edit and save your changes.    
+
+
+Started 1-30-2017
+
+
+
+
+A.S.E.T. Changes
+
+
+IVA Changes (implemented in one or more of the included command pods or cockpits)
+
+
+* Redesign of pilot instrument panels
+* Precise Control button
+* SAS Speed Mode selector switch
+* Thrust Limit (%) selector switch
+* Solar Array Deploy switch
+* Fuel Cell start/stop switch
+* Gimbal lock switch
+* Gear Up/Dn Lever
+* Flaps Lever
+* Spoilers Lever
+* Brake Force Selector Switch
+* Engine Mode Selector Switch
+* Misc Indicators
+   * Approach (target)
+   * Depart (target)
+   * Dock Port Is Reference
+   * Target D/P Selected
+   * Precision Control in effect
+   * RCS Active
+   * Thermal Protection (Shield, Ablator)
+   * Solar Array Active 
+   * Solar Array Deployed 
+   * Solar Array Retracted 
+   * Solar Array Broken 
+   * Fuel Cell Active 
+   * Alternator Active 
+   * Generator Active 
+* New (or revised) Digital Displays (Cycle through if multiple)
+   * Orbital Velocity, Surface Speed, Relative Speed,  Apoapsis (cycle through)
+   * Effective Acceleration, Heading, Inclination, Periapsis, 
+   * Estimated speed at Impact, Vertical Speed,  Horizontal speed
+   * Approach speed, Relative Speed, Distance to Target
+   * Electrical Output
+   * G-Force
+   * Ambient Temperature
+   * Surface Temperature
+   * External Temperature
+   * Atmosphere Density
+   * Dynamic Pressure
+   * Warp multiplier
+   * Signal Strength
+   * Altitude Warning
+   * GPS Latitude / Longitude with selector for Position, Target, and Waypoint
+   * Endurance / Estimated Range
+* New Instruments (many in Mk-1 Lander Can)
+   * DSKY 
+   * FDAI (Flight Director Attitude Indicator) 
+   * Lots and lots of gorgeous ANALOG gauges, dials, timers, indicators (here are just a few)
+      * Mach number
+      * Brake Force
+      * Brake Set / Release
+      * Auto Speed Brake
+      * Dynamic Pressure
+      * Atmosphere
+      * Thrust / Throttle
+      * Clock with Timer
+      * Engine Temperature
+      * Radar Altitude
+      * Air Speed
+      * Compass
+      * Bearing
+      * AoA
+      * Flaps
+      * Turn Coordinator
+      * Fuel Quantity
+      * Artificial Horizon
+      * Ailerons, Rudder, Nose Trim control
+      * Power Output
+      * Battery usage / charge
+      * Skin Temperature
+      * Internal Temperature
+      * Ambient Surface Temperature
+      * Acceleration (G’s)
+      * TWR
+      * Phase / Eject Angle
+      * Latitude / Longitude
+      * Ablative %
+      * Shield Temp
+      * Speed (surface, orbit, relative)
+   * Resource Quantity digital display with selector switch
+   * "Globus" IMP navigation instrument
+   * RMI & Nav Radio
+   * Nav Aids VORDME ILS
+   * Rescue Radio
+   * Heads Up Display
+   * * New G-force graphical indicator
+* Re-Designed Portable Timer display (now also includes warp multiplier)
+* New / Revised MFD screens
+   *
