@@ -9,3 +9,4 @@ Optional Mods
 	SCANsat
 	VesselView
 	NavyFish/Plugins/DPAI (Docking Port Alignment Indicator)
+	TAC-LS
